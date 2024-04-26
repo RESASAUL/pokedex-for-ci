@@ -1,3 +1,6 @@
+[![New pipeline aux for this proyect](https://github.com/RESASAUL/pokedex-for-ci/actions/workflows/pipelineout.yml/badge.svg)](https://github.com/RESASAUL/pokedex-for-ci/actions/workflows/pipelineout.yml)
+
+
 [![Deployment Pipeline](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml/badge.svg)](https://github.com/midudev/pokedex-for-ci/actions/workflows/pipeline.yml)
 
 # Full Stack open CI/CD
@@ -15,3 +18,6 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+
+
