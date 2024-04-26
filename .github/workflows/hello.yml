@@ -6,11 +6,12 @@ on:
       - main
 
 jobs:
-  hello_world:
-    runs-on: ubuntu-18.04
+  hello_world: #Nombre de la chamba
+    runs-on: ubuntu-latest # El sistema operativo sobre el cual se llevará el workflow
+    
     steps:
-      - name: Echo the message
-        run: |
+      - name: Echo the message #Nombre del paso
+        run: |    
           echo "Hola midu!"
       - name: Dime la fecha
         run: date
